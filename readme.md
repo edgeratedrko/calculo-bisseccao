@@ -7,5 +7,5 @@ intervalos em que estão os zeros.
 
 O seguinte projeto contém:
 
-*Código da Bissecção e da Interface.
-*Arquivo .jar, que deve ser utilizado para executar o código.
+* Código da Bissecção e da Interface.
+* Arquivo .jar, que deve ser utilizado para executar o código.
