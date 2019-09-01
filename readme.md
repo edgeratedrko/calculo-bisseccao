@@ -9,3 +9,7 @@ O seguinte projeto contém:
 
 * Código da Bissecção e da Interface.
 * Arquivo .jar, que deve ser utilizado para executar o código.
+
+## Como executar?
+
+Baixar apenas o arquivo com extensão .jar, e após isso, simplesmente abrir ele.
